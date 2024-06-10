@@ -1,0 +1,12 @@
+Read from file
+second line
+okay great. writing is doing his job
+buffering and streaming is working
+
+
+---------------------------
+
+
+
+
+----------------------------
